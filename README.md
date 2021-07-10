@@ -2,7 +2,7 @@
 
 ## Set-up
 ```
-git clone git@github.com:iangohy/zilliqa-review-federation-poc.git
+git clone git@github.com:yingxuan0806/zilliqa-review-federation-poc.git
 cd zilliqa-review-federation-poc
 yarn install
 yarn start
